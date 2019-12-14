@@ -1,4 +1,4 @@
-# fuck-python-package
+# fuck-python-package [![Build Status](https://travis-ci.com/bananaappletw/fuck-python-package.svg?branch=master)](https://travis-ci.com/bananaappletw/fuck-python-package)
 
 Collection of minimal examples of fucking python package
 
